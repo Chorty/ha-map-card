@@ -1,7 +1,6 @@
 {
   "name": "HA Card NEW",
   "codeowners": ["@chorty"],
-  "config_flow": true,
   "documentation": "https://gcobb321.github.io/icloud3_v3_docs/#/",
   "issue_tracker": "https://github.com/chorty/ha-map-card/issues",
   "version": "1.6.0"
